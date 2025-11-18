@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+google-generativeai
+pillow
+numpy
+streamlit_chat
+protobuf
+python-dotenv
