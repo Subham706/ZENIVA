@@ -6,3 +6,4 @@ numpy
 streamlit_chat
 protobuf
 python-dotenv
+openpyxl
